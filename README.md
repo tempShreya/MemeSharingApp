@@ -4,7 +4,7 @@ Meme Sharing app with the functionality of sharing Meme that is being fetched by
 
 **Memestic Main Page**
 
-<img src = "img/profile.jpeg" width="50%">
+<img src = "img/profile.jpeg" length=50% width="50%">
 
 **App Icon**
 
